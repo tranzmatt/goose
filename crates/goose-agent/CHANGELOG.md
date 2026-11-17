@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0-alpha.15](https://github.com/tranzmatt/goose/compare/gdk-v0.1.0-alpha.14...gdk-v0.1.0-alpha.15) - 2026-11-17
+
+### Added
+
+- *(oi-kit)* add SkillOperation and drop the Skills extension ([#13574](https://github.com/tranzmatt/goose/pull/13574))
+
 ## [0.1.0-alpha.14](https://github.com/aaif-goose/goose/compare/gdk-v0.1.0-alpha.13...gdk-v0.1.0-alpha.14) - 2026-11-16
 
 ### Added

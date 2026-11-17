@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0-alpha.15](https://github.com/tranzmatt/goose/compare/gdk-v0.1.0-alpha.14...gdk-v0.1.0-alpha.15) - 2026-11-17
+
+### Added
+
+- *(providers)* add Onysoft declarative provider ([#13582](https://github.com/tranzmatt/goose/pull/13582))
+
+### Other
+
+- Add Cortecs as declarative provider ([#12617](https://github.com/tranzmatt/goose/pull/12617))
+- *(providers)* update the EmpirioLabs AI provider (retired model id, description, catalog link) ([#13229](https://github.com/tranzmatt/goose/pull/13229))
+
 ## [0.1.0-alpha.14](https://github.com/aaif-goose/goose/compare/gdk-v0.1.0-alpha.13...gdk-v0.1.0-alpha.14) - 2026-11-16
 
 ### Added
